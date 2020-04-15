@@ -1,5 +1,18 @@
 {
+  "name": "@kofosu2289/snayke",
+  "version": "0.1.0",
+  "description": "no step on snayke",
+  "author": {
+    "name": "Kenneth Ofosu",
+    "email": "kofosu89@gmail.com",
+    "url": "https://kofosu.com/"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "blessed": "^0.1.81"
-  }
+  },
+  "private": false
 }
