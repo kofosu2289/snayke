@@ -1,5 +1,5 @@
 {
-  "name": "@kofosu2289/snayke",
+  "name": "snaykejs",
   "version": "0.1.0",
   "description": "no step on snayke",
   "author": {
@@ -9,7 +9,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node play.js"
   },
   "dependencies": {
     "blessed": "^0.1.81"
