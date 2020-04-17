@@ -1,7 +1,7 @@
 {
   "name": "snaykejs",
   "version": "0.1.2",
-  "description": "no step on snayke",
+  "description": "A terminal-based Snake implementation 🐍",
   "author": {
     "name": "Kenneth Ofosu",
     "email": "kofosu89@gmail.com",
@@ -9,7 +9,7 @@
   },
   "main": "index.js",
   "scripts": {
-    "start": "node src/play.js"
+    "start": "node play.js"
   },
   "dependencies": {
     "blessed": "^0.1.81"

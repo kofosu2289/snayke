@@ -26,13 +26,12 @@ Create the game.
 // index.js
 
 const blessed = require('blessed')
-const screen = blessed.screen({ smartCSR: true })
-const { UserInterface, Game } = require('snekjs')
-const ui = new UserInterface(screen, blessed)
+const { UserInterface, Game } = require('snaykejs')
+const ui = new UserInterface(blessed, blessed.screen())
 const game = new Game(ui)
 
-game.generateDot() // Generate the coordinates of the first dot before the game begins
-game.start() // Begin game
+// Begin game
+game.start() 
 ```
 
 Run the game.
