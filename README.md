@@ -10,6 +10,14 @@ Use the arrow keys (`↑`, `↓`, `←`, `→`) or `W` `A` `S` `D` to navigate t
 
 ## Installation
 
+### Run without installing
+
+The easiest way to play the game is to just run it in the terminal without installing anything!
+
+```bash
+npx kofosu2289/snayke
+```
+
 ### Clone from repository
 
 ```bash
