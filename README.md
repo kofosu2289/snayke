@@ -42,7 +42,7 @@ node index.js
 
 ## Preview
 
-[![asciicast](https://asciinema.org/a/gll67uhN80LwAAXRweYfFIpFS.svg)](https://asciinema.org/a/gll67uhN80LwAAXRweYfFIpFS)
+![snayke.gif](snayke.gif)
 
 ## Author
 
