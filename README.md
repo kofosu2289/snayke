@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![snaykejs on NPM](https://img.shields.io/npm/v/snaykejs.svg?color=green&label=snaykejs)](https://www.npmjs.com/package/snaykejs)
 
+[![Run on Repl.it](https://repl.it/badge/github/kofosu2289/snayke)](https://repl.it/github/kofosu2289/snayke)
+
 A terminal-based Snake implementation written in Javascript
 
 ![snayke.gif](https://user-images.githubusercontent.com/18624999/82155319-0fe2b280-9842-11ea-97a9-bf9e24a983ee.gif)
