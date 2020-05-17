@@ -8,6 +8,9 @@
     "url": "https://kofosu.com/"
   },
   "main": "index.js",
+  "bin": {
+    "snayke": "./play.js"
+  },
   "scripts": {
     "play": "node play.js",
     "test": "echo \"No test specified\""
