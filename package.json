@@ -9,7 +9,8 @@
   },
   "main": "index.js",
   "scripts": {
-    "play": "node play.js"
+    "play": "node play.js",
+    "test": "echo \"No test specified\""
   },
   "dependencies": {
     "blessed": "^0.1.81"

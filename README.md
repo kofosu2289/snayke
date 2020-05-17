@@ -2,6 +2,8 @@
 
 A terminal-based Snake implementation written in Javascript
 
+![snayke.gif](snayke.gif)
+
 ## Instructions
 
 ### Clone from repository
@@ -39,10 +41,6 @@ Run the game.
 ```bash
 node index.js
 ```
-
-## Preview
-
-![snayke.gif](snayke.gif)
 
 ## Author
 
