@@ -1,4 +1,3 @@
-const { performance, PerformanceObserver} = require('perf_hooks')
 /**
  * @class Game
  *
@@ -44,9 +43,8 @@ class Game {
       up: { x: 0, y: -1 },
       down: { x: 0, y: 1 },
       right: { x: 1, y: 0 },
-      left: { x: -1, y: 0 }
+      left: { x: -1, y: 0 },
     }
-    this.changingDirection = false
     this.timer = null
   
     // Generate the first dot before the game begins
@@ -83,11 +81,6 @@ class Game {
    * 
    */
   moveSnake() {
-    if (this.changingDIrection) {
-      return
-    }
-    this.changingDirection = true
-
     // Move the head forward by one pixel based on velocity
     const head = {
       x: this.snake[0].x + this.directions[this.currentDirection].x,
@@ -165,7 +158,6 @@ class Game {
 
   // Set to inital direction and clear the screen
   clear() {
-    this.changingDirection = false
     this.ui.clearScreen()
   }
 
