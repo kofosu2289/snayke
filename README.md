@@ -40,6 +40,10 @@ Run the game.
 node index.js
 ```
 
+## Preview
+
+[![asciicast](https://asciinema.org/a/gll67uhN80LwAAXRweYfFIpFS.svg)](https://asciinema.org/a/gll67uhN80LwAAXRweYfFIpFS)
+
 ## Author
 
 - [Kenneth Ofosu](https://kofosu.com/)
