@@ -2,7 +2,7 @@
 
 A terminal-based Snake implementation written in Javascript
 
-![snayke.gif](snayke.gif)
+![snayke.gif](https://user-images.githubusercontent.com/18624999/82155319-0fe2b280-9842-11ea-97a9-bf9e24a983ee.gif)
 
 ## Instructions
 
