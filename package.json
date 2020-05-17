@@ -1,6 +1,6 @@
 {
   "name": "snaykejs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A terminal-based Snake implementation 🐍",
   "author": {
     "name": "Kenneth Ofosu",
