@@ -34,6 +34,7 @@ yarn && yarn play
 Add the `snaykejs` module
 
 ```bash
+npm install snaykejs
 yarn add snaykejs
 ```
 
