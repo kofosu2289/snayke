@@ -15,6 +15,9 @@ Use the arrow keys (`↑`, `↓`, `←`, `→`) or `W` `A` `S` `D` to navigate t
 ```bash
 git clone https://github.com/kofosu2289/snayke.git
 cd snayke
+
+# install and run via npm or yarn
+npm install && npm run play
 yarn && yarn play
 ```
 
